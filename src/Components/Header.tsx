@@ -58,11 +58,11 @@ const Wrapper = styled.div`
   }
 
   @media screen and (min-width: 900px) {
-    background-color: yellow;
+
   }
 
   @media screen and (min-width: 1200px) {
-    background-color: orange;
+
   }
 `
 const LogoWrapper = styled.div`
